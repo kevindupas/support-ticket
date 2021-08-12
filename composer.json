@@ -8,7 +8,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.0",
+        "php": "^7.4.22",
         "anhskohbo/no-captcha": "^3.2",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^1.0",
